@@ -61,6 +61,7 @@ export const projects: ProjectDetail[] = [
     links: {
       github: "https://github.com/sang-3",
       detail: "/projects/health-dashboard",
+      demo: "",
     },
   },
   {
@@ -70,7 +71,14 @@ export const projects: ProjectDetail[] = [
     title: "데이터 기반 러닝 동기 관리 서비스",
     period: "2026.01.13 ~ 2026.02.13",
     people: "5명",
-    tech: ["Next.js", "TypeScript", "Tailwind CSS", "Zustand", "MongoDB", "Vercel"],
+    tech: [
+      "Next.js",
+      "TypeScript",
+      "Tailwind CSS",
+      "Zustand",
+      "MongoDB",
+      "Vercel",
+    ],
     summary:
       "러닝 기록의 시각화와 목표 관리를 통해 사용자의 성장을 보여주고 지속적인 동기를 제공하는 러닝 서비스입니다.",
     description:
