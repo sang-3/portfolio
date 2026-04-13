@@ -59,9 +59,9 @@ export const projects: ProjectDetail[] = [
       },
     ],
     links: {
-      github: "https://github.com/sang-3",
+      github: "https://github.com/sang-3/personal-health-dashboard",
       detail: "/projects/health-dashboard",
-      demo: "",
+      demo: "https://personal-health-dashboard-sage.vercel.app/",
     },
   },
   {
