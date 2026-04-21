@@ -32,7 +32,7 @@ export const projects: ProjectDetail[] = [
     category: "개인 프로젝트",
     name: "Personal Health Dashboard",
     title: "건강 기록 기반 개인 데이터 대시보드",
-    period: "2026.03 ~ 진행 중",
+    period: "2026.03 ~ 2026.04",
     people: "1명",
     tech: ["Next.js", "TypeScript", "Tailwind CSS", "Supabase", "Recharts"],
     summary:
